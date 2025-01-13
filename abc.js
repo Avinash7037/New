@@ -13,3 +13,6 @@ console.log(upi);
 console.log("pgl ho kya");
 console.log("bug");
 console.log("latest update");
+
+// I m fixing a bug
+console.log("bug fixed");
